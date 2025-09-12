@@ -35,8 +35,8 @@ At the top, begin a table of contents, Ex.:
 | List     | A collection of values in a specific order. | `List<String> names = [];` |keep organized  |  |
 | Null     | A special value that means “nothing.” | `String? name = null;` |joining school and travel time  |  |
 | Function | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` |save time and reduce errors  |  |
-| Paraneter     | The information passed into a function to change how it works. | `greet(String name)` |  |  |
-|      | The result a function gives back. | `return total;` |  |  |      | Where a variable or function can be used. | (No set syntax — concept-based) |  |  |
+| Paraneter| The information passed into a function to change how it works. | `greet(String name)` |check and put it in the bank  |  |
+| Return   | The result a function gives back. | `return total;` |  |  |      | Where a variable or function can be used. | (No set syntax — concept-based) |When you desposit in gives you money/recipt  |  |
 |      | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |  |  |
 |      | A specific version of a class. | `Dog myDog = Dog();` |  |  |
 |      | A variable that belongs to a class/object. | `String name;` |  |  |
