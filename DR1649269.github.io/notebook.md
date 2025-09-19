@@ -18,8 +18,8 @@ At the top, begin a table of contents, Ex.:
 | Term | Definition and Description | Base Structure | Real Life Example | App Example |
 |------|----------------------------|----------------|-------------------|-------------|
 |Variable| A function that runs when your app starts. It tells Flutter what app to show. | `void main() => runApp(MyApp());` |  |  |
-|Constant| The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` |  |  |
-|data type| A widget that gives you the basic layout: background, navigation bar, floating button, etc. | `Scaffold(...)` |  |  |
+|Constant| The widget that sets up your whole app’s look and navigation. | `MaterialApp(debugShowCheckedModeBanner: flase, title: 'TSA Portfolio', theme: ThemeData, and more)` |  |  |
+|data type| A widget that gives you the basic layout: background, navigation bar, floating button, etc. | `Scaffold()` |  |  |
 |string| A widget that holds and displays your content in a straight line from top to bottom. | `Column(...)` |  |  |
 |integer| A widget that shows things side-by-side. | `Row(...)` |  |  |
 |double| A box that holds other widgets. You can add color, padding, borders, or size. | `Container(...)` |  |  |
