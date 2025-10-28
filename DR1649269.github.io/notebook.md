@@ -82,8 +82,15 @@
 | Center      |                    |                     |
 
 ##Code Definions
-
-
+| Scanner | Creates a scanner object to take input from user | Sacnner in = new Scanner(System.in; | | |
+| import Sacnner | Gives access to Scanner class, required at top | import java.until.Scanner; | | |
+| print line statement  | prints whats in the parenthesis, adds line after  | System.out.println(" ");  |  |  | 
+| print statement | prints the content in the parenthesis | System.out.print(" "); |  |  | 
+| input nextLine | reads in a String from the user | input.nextLine(); |  |  | 
+|input nextInt | reads in an int from the user |  input.nextInt(); |  |  | 
+|input nextDouble | reads in a double (decimal) from the user | input.nextBoolean(); |  |  | 
+|Arithmetic opertors | -     *      /     % (modules, returns the remainder from dividing)  |  |  |  | 
+| Compound operators (applies the result to the varible | +=     -=     *=     /+     %=     ++ (adds 1) |  |  |  | 
 ---
 
 ### Layout and Design Widgets
